@@ -1,0 +1,7 @@
+{
+  "name": "Ícone Odontologia Redesign",
+  "description": "A high-end, modern redesign of the Ícone Odontologia dental clinic website, preserving original brand identity and content with a premium UI/UX experience.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
